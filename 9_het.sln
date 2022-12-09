@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9_het", "9_het\9_het.csproj", "{4A22D306-A0AF-487D-9E75-E6AF3C8EB497}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9_het", "9_het\9_het.csproj", "{4A22D306-A0AF-487D-9E75-E6AF3C8EB497}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp1", "WinFormsApp1\WinFormsApp1.csproj", "{3C5C5415-719C-4644-88E7-B79A8D2D6D69}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{4A22D306-A0AF-487D-9E75-E6AF3C8EB497}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A22D306-A0AF-487D-9E75-E6AF3C8EB497}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A22D306-A0AF-487D-9E75-E6AF3C8EB497}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C5C5415-719C-4644-88E7-B79A8D2D6D69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C5C5415-719C-4644-88E7-B79A8D2D6D69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C5C5415-719C-4644-88E7-B79A8D2D6D69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C5C5415-719C-4644-88E7-B79A8D2D6D69}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
